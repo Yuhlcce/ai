@@ -1,2 +1,2 @@
 # ai
-chat
+ai
